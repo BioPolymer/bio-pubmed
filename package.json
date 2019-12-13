@@ -1,0 +1,31 @@
+{
+  "name": "@biopolymer-elements/bio-pubmed",
+  "version": "1.0.0",
+  "description": "This package provides PubMed searches.",
+  "main": "bio-pubmed-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Fortner, Ishan Subedi",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@biopolymer-elements/bio-link": "^1.0.1",
+    "@bit/marko-ignjatovic.biopolymer.bio-link": "^1.0.2",
+    "@bit/marko-ignjatovic.biopolymer.index": "^1.0.0",
+    "@polymer/polymer": "^3.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioPolymer/bio-pubmed.git"
+  },
+  "keywords": [
+    "bio",
+    "pubmed",
+    "biopolymer"
+  ],
+  "bugs": {
+    "url": "https://github.com/BioPolymer/bio-pubmed/issues"
+  },
+  "homepage": "https://github.com/BioPolymer/bio-pubmed#readme"
+}
