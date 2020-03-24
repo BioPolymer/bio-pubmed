@@ -10,8 +10,6 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@biopolymer-elements/bio-link": "^1.0.1",
-    "@bit/marko-ignjatovic.biopolymer.bio-link": "^1.0.2",
-    "@bit/marko-ignjatovic.biopolymer.index": "^1.0.0",
     "@polymer/polymer": "^3.3.1"
   },
   "devDependencies": {},
